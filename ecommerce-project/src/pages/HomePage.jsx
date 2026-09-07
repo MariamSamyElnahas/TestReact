@@ -3,9 +3,10 @@ import './HomePage.css';
 function HomePage() {
   return (
     <>
+    <title>Ecommerec Project</title>
       <div className="header">
         <div className="left-section">
-          <a href="index.html" className="header-link">
+          <a href="HomePage.jsx" className="header-link">
             <img className="logo" src="images/logo-white.png" />
             <img className="mobile-logo" src="images/mobile-logo-white.png" />
           </a>
