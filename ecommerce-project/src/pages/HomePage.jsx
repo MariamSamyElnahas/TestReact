@@ -3,6 +3,7 @@ import './HomePage.css';
 function HomePage() {
   return (
     <>
+    <link rel="icon" type="image/png" href="/images/home-favicon.png" />
     <title>Ecommerec Project</title>
       <Header />
       <div className="home-page">
